@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: A wzh blog
+subtitle: 'Be not like dumb driven cattle, be a hero in the strife'
+description: 'Be not like dumb driven cattle, be a hero in the strife'
 keywords:
-author: John Doe
-language: en
+author: wzh
+language: zh-Hans
 timezone: ''
 
 # URL
